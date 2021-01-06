@@ -1,5 +1,5 @@
 # k-Nearest-Neighbors
-An implementation of k-Nearest Neighbors machine learning algorithm on six datasets
+An implementation of k-Nearest Neighbors machine learning algorithm on six datasets in Java
 
 Assignment written in Eclipse for Java, Version: 2019-12 (4.14.0)
 
